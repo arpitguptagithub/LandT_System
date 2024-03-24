@@ -15,8 +15,10 @@ This project aims to develop a multilingual automation system for level and pres
 - Secure password storage using hashlib and secrets.
 
 ## Contributors 
- [Arpit Gupta]{https://github.com/arpitguptagithub} , [Chirag Kotian]{https://github.com/ChiragKotian} , [Sudhakar V]{https://github.com/sudhakarv1}
-
+- [Arpit Gupta](https://github.com/arpitguptagithub)
+- [Chirag Kotian](https://github.com/ChiragKotian)
+- [Sudhakar V](https://github.com/sudhakarv1)
+  
 ## Installation Instructions
 
 1. Clone the repository to your local machine:
