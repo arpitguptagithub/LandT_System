@@ -20,7 +20,7 @@ This project aims to develop a multilingual automation system for level and pres
 - [Sudhakar V](https://github.com/sudhakarv1)
 
 ## Presentation 
-<iframe src="https://github.com/arpitguptagithub/LandT_System/raw/main/CreaTech%20Submission%20Template.pptx" width="100%" height="400px"></iframe>
+[Click here to view the presentation](https://github.com/arpitguptagithub/LandT_System/raw/main/CreaTech%20Submission%20Template.pptx)
 
 
 ## Installation Instructions
