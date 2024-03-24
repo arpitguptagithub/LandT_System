@@ -22,7 +22,12 @@ This project aims to develop a multilingual automation system for level and pres
 ## Presentation 
 [Click here to view the presentation](https://github.com/arpitguptagithub/LandT_System/raw/main/CreaTech%20Submission%20Template.pptx)
 
+## Model
+[UML Use Case Diagram] 
+(https://github.com/arpitguptagithub/LandT_System/blob/main/UML%20use%20case.png)
 
+[Control Loop Architecture]
+(https://github.com/arpitguptagithub/LandT_System/blob/main/Control%20Loop.png)
 ## Installation Instructions
 
 1. Clone the repository to your local machine:
