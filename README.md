@@ -19,6 +19,10 @@ This project aims to develop a multilingual automation system for level and pres
 - [Chirag Kotian](https://github.com/ChiragKotian)
 - [Sudhakar V](https://github.com/sudhakarv1)
 
+## Presentation 
+<iframe src="https://github.com/arpitguptagithub/LandT_System/raw/main/CreaTech Submission Tempelate.pptx" width="100%" height="400px"></iframe>
+
+
 ## Installation Instructions
 
 1. Clone the repository to your local machine:
